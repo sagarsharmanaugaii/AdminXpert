@@ -43,17 +43,17 @@ const Profile = ()=>{
 
               <div className=" bg-white border border-gray-200 shadow-sm rounded-xl p-6">
                    <p className=" text-text-primary uppercase  mb-4">Details</p>
-                   <div className="text-text-primary font-light text-sm flex items-center gap-27 mb-2">
+                   <div className="text-text-primary font-light text-sm flex items-center gap-8 mb-2">
                     <span>Location</span>
                      <span>Delhi,India</span>
                    </div>
 
-                   <div className="text-text-primary font-light text-sm flex items-center gap-28 mb-2">
+                   <div className="text-text-primary font-light text-sm flex items-center gap-8 mb-2">
                     <span>Website</span>
                     <span>https://adminxpert.com</span>
                    </div>
 
-                   <div className="text-text-primary font-light text-sm flex items-center gap-32 mb-2">
+                   <div className="text-text-primary font-light text-sm flex items-center gap-8 mb-2">
                     <span>Email</span>
                     <span>AdminXpert@gmail.com</span>
                    </div>
